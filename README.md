@@ -16,7 +16,10 @@ Flipper App - Custom Calculator
 
 ## Running
 
-- Read from the main source
+- Set `venv` for python version: `python3 -m venv env`
+- Active `venv`: `source venv/bin/activate`
+- Install `ufbt`: `python3 -m pip install --upgrade ufbt`
+- Read from [here](https://github.com/CodyTolene/Flipper-Zero-Development-Toolkit)
 - Setup: [ufbt](https://pypi.org/project/ufbt/)
 - First run: `ufbt vscode_dist` to setup styling, formatting.
 - Install on Flipper run: `ufbt launch`
